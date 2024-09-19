@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="pub-identifier">
+  <metadata>
+    <dc:identifier id="pub-identifier">_efe684aa-5d91-4631-b492-29ce403c320d</dc:identifier>
+    <meta id="meta-identifier" property="dcterms:identifier">_efe684aa-5d91-4631-b492-29ce403c320d</meta>
+    <dc:title id="pub-title">The Dinner Club</dc:title>
+    <meta property="dcterms:title" id="meta-title">The Dinner Club</meta>
+    <dc:language id="pub-language">en</dc:language>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2022-12-27T11:15:14Z</meta>
+    <!--The preceding date value is actually local time (not UTC) in UTC format because there is no function in XSLT 1.0 to generate a correct UTC time-->
+    <meta content="cover-image" name="cover"/>
+    <meta id="meta-creator1" property="dcterms:creator">Sapper</meta>
+    <dc:creator id="pub-creator1">Sapper</dc:creator>
+    <meta property="dcterms:date">2022-12-27</meta>
+    <dc:date>2022-12-27</dc:date>
+    <meta property="dcterms:publisher">epubBooks Classics</meta>
+    <dc:publisher>epubBooks Classics</dc:publisher>
+    <meta property="dcterms:rights">Copyright © 2022 epubBooks</meta>
+    <dc:rights>Copyright © 2022 epubBooks</dc:rights>
+    <meta property="dcterms:rightsHolder">epubBooks</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="bk01-toc.xhtml"/>
+    <item media-type="text/css" id="html-css" href="epubbooks.css"/>
+    <item media-type="text/css" id="docbook-css" href="docbook-epub.css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="bookcover-generated.jpg" media-type="image/jpeg"/>
+    <item id="id-idm1" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm35" href="pr01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm46" href="ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm202" href="ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm372" href="ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm510" href="ch04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm639" href="ch05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm776" href="ch06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm885" href="ch07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1016" href="ch08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1214" href="ch09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1442" href="ch10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1583" href="ch11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1719" href="ch12.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="htmltoc" linear="yes"/>
+    <itemref idref="id-idm1"/>
+    <itemref idref="id-idm35"/>
+    <itemref idref="id-idm46"/>
+    <itemref idref="id-idm202"/>
+    <itemref idref="id-idm372"/>
+    <itemref idref="id-idm510"/>
+    <itemref idref="id-idm639"/>
+    <itemref idref="id-idm776"/>
+    <itemref idref="id-idm885"/>
+    <itemref idref="id-idm1016"/>
+    <itemref idref="id-idm1214"/>
+    <itemref idref="id-idm1442"/>
+    <itemref idref="id-idm1583"/>
+    <itemref idref="id-idm1719"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Cover"/>
+    <reference href="bk01-toc.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>

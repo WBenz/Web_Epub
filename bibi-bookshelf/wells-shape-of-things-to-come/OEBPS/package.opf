@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="pub-identifier">
+  <metadata>
+    <dc:identifier id="pub-identifier">_simple_book</dc:identifier>
+    <meta id="meta-identifier" property="dcterms:identifier">_simple_book</meta>
+    <dc:title id="pub-title">The Shape of Things to Come</dc:title>
+    <meta property="dcterms:title" id="meta-title">The Shape of Things to Come</meta>
+    <dc:language id="pub-language">en</dc:language>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2014-12-18T13:47:24Z</meta>
+    <!--The preceding date value is actually local time (not UTC) in UTC format because there is no function in XSLT 1.0 to generate a correct UTC time-->
+    <meta content="cover-image" name="cover"/>
+    <meta id="meta-creator2" property="dcterms:creator">H. G. Wells</meta>
+    <dc:creator id="pub-creator2">H. G. Wells</dc:creator>
+    <meta property="dcterms:date">2014-12-18</meta>
+    <dc:date>2014-12-18</dc:date>
+    <meta property="dcterms:publisher">epubBooks Classics</meta>
+    <dc:publisher>epubBooks Classics</dc:publisher>
+    <meta property="dcterms:rights">Copyright © 2014 epubBooks</meta>
+    <dc:rights>Copyright © 2014 epubBooks</dc:rights>
+    <meta property="dcterms:rightsHolder">epubBooks</meta>
+    <meta property="dcterms:subject">Science Fiction</meta>
+    <dc:subject>Science Fiction</dc:subject>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="bk01-toc.xhtml"/>
+    <item media-type="text/css" id="html-css" href="epubbooks.css"/>
+    <item media-type="text/css" id="docbook-css" href="docbook-epub.css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="bookcover-generated.jpg" media-type="image/jpeg"/>
+    <item id="id-idp140532836779056" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532823831584" href="pr01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532820896160" href="ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532836738640" href="ch01s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532876717008" href="ch01s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532783371264" href="ch01s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532837077968" href="ch01s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532889412624" href="ch01s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532888986768" href="ch01s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532780632208" href="ch01s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532781092832" href="ch01s08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532783927264" href="ch01s09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532886959856" href="ch01s10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532876135280" href="ch01s11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532822064560" href="ch01s12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532876390000" href="ch01s13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532782925360" href="ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532784302608" href="ch02s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532877135664" href="ch02s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879978240" href="ch02s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532889599920" href="ch02s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532784460288" href="ch02s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532780986256" href="ch02s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532824651152" href="ch02s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532776034448" href="ch02s08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879252592" href="ch02s09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532888734768" href="ch02s10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532821744368" href="ch02s11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879244112" href="ch02s12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532887921664" href="ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879463488" href="ch03s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532880123760" href="ch03s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532876582528" href="ch03s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532781575408" href="ch03s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532887942272" href="ch03s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532822188096" href="ch03s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879330880" href="ch03s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532877867456" href="ch03s08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532783931760" href="ch03s09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879622736" href="ch03s10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532781574208" href="ch03s11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532823756800" href="ch04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532878855440" href="ch04s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532868891632" href="ch04s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532821496384" href="ch04s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532836293168" href="ch04s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532858977792" href="ch04s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532877786000" href="ch04s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532824966208" href="ch04s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532816795184" href="ch05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532877628672" href="ch05s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532784270528" href="ch05s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532843859440" href="ch05s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532816391792" href="ch05s04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532876994064" href="ch05s05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532879707728" href="ch05s06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532836225856" href="ch05s07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532820887360" href="ch05s08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140532877110752" href="ch05s09.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="htmltoc" linear="yes"/>
+    <itemref idref="id-idp140532836779056"/>
+    <itemref idref="id-idp140532823831584"/>
+    <itemref idref="id-idp140532820896160"/>
+    <itemref idref="id-idp140532836738640"/>
+    <itemref idref="id-idp140532876717008"/>
+    <itemref idref="id-idp140532783371264"/>
+    <itemref idref="id-idp140532837077968"/>
+    <itemref idref="id-idp140532889412624"/>
+    <itemref idref="id-idp140532888986768"/>
+    <itemref idref="id-idp140532780632208"/>
+    <itemref idref="id-idp140532781092832"/>
+    <itemref idref="id-idp140532783927264"/>
+    <itemref idref="id-idp140532886959856"/>
+    <itemref idref="id-idp140532876135280"/>
+    <itemref idref="id-idp140532822064560"/>
+    <itemref idref="id-idp140532876390000"/>
+    <itemref idref="id-idp140532782925360"/>
+    <itemref idref="id-idp140532784302608"/>
+    <itemref idref="id-idp140532877135664"/>
+    <itemref idref="id-idp140532879978240"/>
+    <itemref idref="id-idp140532889599920"/>
+    <itemref idref="id-idp140532784460288"/>
+    <itemref idref="id-idp140532780986256"/>
+    <itemref idref="id-idp140532824651152"/>
+    <itemref idref="id-idp140532776034448"/>
+    <itemref idref="id-idp140532879252592"/>
+    <itemref idref="id-idp140532888734768"/>
+    <itemref idref="id-idp140532821744368"/>
+    <itemref idref="id-idp140532879244112"/>
+    <itemref idref="id-idp140532887921664"/>
+    <itemref idref="id-idp140532879463488"/>
+    <itemref idref="id-idp140532880123760"/>
+    <itemref idref="id-idp140532876582528"/>
+    <itemref idref="id-idp140532781575408"/>
+    <itemref idref="id-idp140532887942272"/>
+    <itemref idref="id-idp140532822188096"/>
+    <itemref idref="id-idp140532879330880"/>
+    <itemref idref="id-idp140532877867456"/>
+    <itemref idref="id-idp140532783931760"/>
+    <itemref idref="id-idp140532879622736"/>
+    <itemref idref="id-idp140532781574208"/>
+    <itemref idref="id-idp140532823756800"/>
+    <itemref idref="id-idp140532878855440"/>
+    <itemref idref="id-idp140532868891632"/>
+    <itemref idref="id-idp140532821496384"/>
+    <itemref idref="id-idp140532836293168"/>
+    <itemref idref="id-idp140532858977792"/>
+    <itemref idref="id-idp140532877786000"/>
+    <itemref idref="id-idp140532824966208"/>
+    <itemref idref="id-idp140532816795184"/>
+    <itemref idref="id-idp140532877628672"/>
+    <itemref idref="id-idp140532784270528"/>
+    <itemref idref="id-idp140532843859440"/>
+    <itemref idref="id-idp140532816391792"/>
+    <itemref idref="id-idp140532876994064"/>
+    <itemref idref="id-idp140532879707728"/>
+    <itemref idref="id-idp140532836225856"/>
+    <itemref idref="id-idp140532820887360"/>
+    <itemref idref="id-idp140532877110752"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Cover"/>
+    <reference href="bk01-toc.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="pub-identifier">
+  <metadata>
+    <dc:identifier id="pub-identifier">_6f124752-b8de-459b-ab9e-97549fa6acc3</dc:identifier>
+    <meta id="meta-identifier" property="dcterms:identifier">_6f124752-b8de-459b-ab9e-97549fa6acc3</meta>
+    <dc:title id="pub-title">The Green Eagle</dc:title>
+    <meta property="dcterms:title" id="meta-title">The Green Eagle</meta>
+    <dc:language id="pub-language">en</dc:language>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2022-05-31T17:17:10Z</meta>
+    <!--The preceding date value is actually local time (not UTC) in UTC format because there is no function in XSLT 1.0 to generate a correct UTC time-->
+    <meta content="cover-image" name="cover"/>
+    <meta id="meta-creator1" property="dcterms:creator">Lester Dent</meta>
+    <dc:creator id="pub-creator1">Lester Dent</dc:creator>
+    <meta property="dcterms:date">2022-05-31</meta>
+    <dc:date>2022-05-31</dc:date>
+    <meta property="dcterms:publisher">epubBooks Classics</meta>
+    <dc:publisher>epubBooks Classics</dc:publisher>
+    <meta property="dcterms:rights">Copyright © 2022 epubBooks</meta>
+    <dc:rights>Copyright © 2022 epubBooks</dc:rights>
+    <meta property="dcterms:rightsHolder">epubBooks</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="bk01-toc.xhtml"/>
+    <item media-type="text/css" id="html-css" href="epubbooks.css"/>
+    <item media-type="text/css" id="docbook-css" href="docbook-epub.css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="bookcover-generated.jpg" media-type="image/jpeg"/>
+    <item id="id-idm1" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm36" href="ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm160" href="ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm275" href="ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm484" href="ch04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm641" href="ch05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm727" href="ch06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm904" href="ch07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1083" href="ch08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1229" href="ch09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1340" href="ch10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1455" href="ch11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1597" href="ch12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1746" href="ch13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1876" href="ch14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1920" href="ch15.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="htmltoc" linear="yes"/>
+    <itemref idref="id-idm1"/>
+    <itemref idref="id-idm36"/>
+    <itemref idref="id-idm160"/>
+    <itemref idref="id-idm275"/>
+    <itemref idref="id-idm484"/>
+    <itemref idref="id-idm641"/>
+    <itemref idref="id-idm727"/>
+    <itemref idref="id-idm904"/>
+    <itemref idref="id-idm1083"/>
+    <itemref idref="id-idm1229"/>
+    <itemref idref="id-idm1340"/>
+    <itemref idref="id-idm1455"/>
+    <itemref idref="id-idm1597"/>
+    <itemref idref="id-idm1746"/>
+    <itemref idref="id-idm1876"/>
+    <itemref idref="id-idm1920"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Cover"/>
+    <reference href="bk01-toc.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>

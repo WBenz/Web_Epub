@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="pub-identifier">
+  <metadata>
+    <dc:identifier id="pub-identifier">_ad2607bb-691a-43da-9977-ed8e36046d9b</dc:identifier>
+    <meta id="meta-identifier" property="dcterms:identifier">_ad2607bb-691a-43da-9977-ed8e36046d9b</meta>
+    <dc:title id="pub-title">The Castaways of the Flag</dc:title>
+    <meta property="dcterms:title" id="meta-title">The Castaways of the Flag</meta>
+    <dc:language id="pub-language">en</dc:language>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2022-12-28T08:51:24Z</meta>
+    <!--The preceding date value is actually local time (not UTC) in UTC format because there is no function in XSLT 1.0 to generate a correct UTC time-->
+    <meta content="cover-image" name="cover"/>
+    <meta id="meta-creator1" property="dcterms:creator">Jules Verne</meta>
+    <dc:creator id="pub-creator1">Jules Verne</dc:creator>
+    <meta property="dcterms:contributor">H. C. Murphy</meta>
+    <dc:contributor>H. C. Murphy</dc:contributor>
+    <meta property="dcterms:date">2022-12-28</meta>
+    <dc:date>2022-12-28</dc:date>
+    <meta property="dcterms:publisher">epubBooks Classics</meta>
+    <dc:publisher>epubBooks Classics</dc:publisher>
+    <meta property="dcterms:rights">Copyright © 2022 epubBooks</meta>
+    <dc:rights>Copyright © 2022 epubBooks</dc:rights>
+    <meta property="dcterms:rightsHolder">epubBooks</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="bk01-toc.xhtml"/>
+    <item media-type="text/css" id="html-css" href="epubbooks.css"/>
+    <item media-type="text/css" id="docbook-css" href="docbook-epub.css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="bookcover-generated.jpg" media-type="image/jpeg"/>
+    <item id="id-idm1" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm40" href="pr01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm46" href="pr02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm73" href="ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm176" href="ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm270" href="ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm394" href="ch04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm485" href="ch05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm611" href="ch06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm727" href="ch07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm838" href="ch08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm959" href="ch09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1087" href="ch10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1199" href="ch11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1336" href="ch12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1446" href="ch13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1584" href="ch14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1640" href="ch15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idm1799" href="ch16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="idp1" href="images/i057.jpg" media-type="image/jpeg"/>
+    <item id="idp2" href="images/ifpc.jpg" media-type="image/jpeg"/>
+    <item id="idp3" href="images/i259.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="htmltoc" linear="yes"/>
+    <itemref idref="id-idm1"/>
+    <itemref idref="id-idm40"/>
+    <itemref idref="id-idm46"/>
+    <itemref idref="id-idm73"/>
+    <itemref idref="id-idm176"/>
+    <itemref idref="id-idm270"/>
+    <itemref idref="id-idm394"/>
+    <itemref idref="id-idm485"/>
+    <itemref idref="id-idm611"/>
+    <itemref idref="id-idm727"/>
+    <itemref idref="id-idm838"/>
+    <itemref idref="id-idm959"/>
+    <itemref idref="id-idm1087"/>
+    <itemref idref="id-idm1199"/>
+    <itemref idref="id-idm1336"/>
+    <itemref idref="id-idm1446"/>
+    <itemref idref="id-idm1584"/>
+    <itemref idref="id-idm1640"/>
+    <itemref idref="id-idm1799"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Cover"/>
+    <reference href="bk01-toc.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>
